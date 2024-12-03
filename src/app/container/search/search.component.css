@@ -1,0 +1,57 @@
+.search-product{
+    margin: 20px auto;
+    text-align: center;
+}
+.search-product-input{
+    width: 40%;
+    /* height: 4.8vh; */
+    outline: none;
+    border-radius: 2px;
+    background-color: #efefef;
+    border:#28282B 1px solid;
+    
+}
+input{
+    padding:10px;
+}
+
+.btn{
+    cursor: pointer;
+    border:none;
+}
+.btn-search{
+    padding:12px 30px;
+    background-color:#28282B;
+    margin-left:-5px;
+    color:#fff;
+
+    position: relative; /* Establish a positioning context for the pseudo-element */
+    overflow: hidden; /* Ensure the circle effect stays within the button */
+
+    border: none;
+
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-search:hover{
+    background-color:#565658;
+    color:#fff;
+    transition:all 0.2s ease-in-out;
+    transform-origin:center;
+
+}
+
+.btn-search-disabled{
+    padding: 12px 30px;
+    background-color: #aaa;
+    margin-left: -1px;
+    color: #999;
+    border: #aaa 1px solid;
+    cursor: not-allowed or no-drop;
+}
+
+.search-result-for{
+    margin:20px auto;
+    padding:10px 140px;
+}
