@@ -58,6 +58,11 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite,linux" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</p>
 
 ---
 
