@@ -28,7 +28,12 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,electron,dotnet,tailwind,bootstrap" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
 > 📱 React Native Developer
