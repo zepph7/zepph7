@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zepphania</h1>
+<h1 align="center">Hi 👋, I'm Zephania</h1>
 <h3 align="center">Full Stack Software Developer from Tanzania 🇹🇿</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 ## 🚀 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,py" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 ## 🛠 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,electron,bootstrap" />
 </p>
 
 > 📱 React Native Developer
