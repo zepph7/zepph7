@@ -36,7 +36,7 @@ Passionate about building modern web applications, REST APIs, and mobile applica
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-> 📱 React Native Developer
+> 📱 APP Development
 
 ---
 
@@ -62,9 +62,9 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zepph7&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepph7&layout=compact&theme=tokyonight&hide_border=true"/>
