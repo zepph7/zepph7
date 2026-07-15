@@ -31,12 +31,13 @@ Passionate about building modern web applications, REST APIs, and mobile applica
   
 </p>
 
+> 📱 APP Development
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-> 📱 APP Development
 
 ---
 
@@ -62,12 +63,20 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zepph7&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepph7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p> -->
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-frontend-4yqi4802r-zepph7s-projects.vercel.app/api?username=zepph7&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-frontend-4yqi4802r-zepph7s-projects.vercel.app/api/top-langs?username=zepph7&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
