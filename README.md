@@ -19,7 +19,7 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 ## 🚀 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,py" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,py,cs,css" />
 </p>
 
 ---
@@ -27,7 +27,8 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 ## 🛠 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,electron,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,express,electron,dotnet,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 > 📱 React Native Developer
@@ -77,14 +78,14 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://wa.me/255759979611">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 <a href="https://github.com/zepph7">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
+
+<a href="https://wa.me/255759979611">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 ---
 
