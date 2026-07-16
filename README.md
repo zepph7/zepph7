@@ -74,7 +74,7 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=zepph7&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=zepph7&theme=tokyonight"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=zepph9&theme=tokyonight"/>
 </p>
 
 <p align="center">
