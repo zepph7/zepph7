@@ -87,7 +87,9 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zepph7&theme=tokyonight&hide_border=true"/>
 </p>
-
+<p align="center">
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+  </p>
 ---
 
 ## 🌐 Connect With Me
