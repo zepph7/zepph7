@@ -67,20 +67,23 @@ Passionate about building modern web applications, REST APIs, and mobile applica
 ---
 
 ## 📊 GitHub Stats
-
+ <!--contributions and coding streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zepph7&theme=tokyonight&hide_border=true"/>
 </p>
 
+ <!-- my git status-->
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=zepph7&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <!-- <img height="170" src="https://github-stats-extended.vercel.app/api?username=zepph7&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 </p>
-
-<p align="center">
+ <!-- most used languages -->
+<!-- <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=zepph7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-frontend-7z7v.vercel.app/api/top-langs?username=zepph7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p> -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats-frontend-7z7v.vercel.app/api/top-langs?username=zepph7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </p>
-
 
 ## 🌐 Connect With Me
 
